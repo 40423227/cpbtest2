@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2015Fall 40423227 CPB 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-09T14:34:00+08:00</updated><entry><title>2015 計算機程式 段考</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-09T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2016-01-09:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;以下為段考周內容&lt;/p&gt;
+<<<<<<< HEAD
+=======
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="40423227_cp_w17_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40423227_cp_w17_p.html" target="_blank"&gt;段考周投影片&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="" width= "640" height="385" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a  href="https://www.youtube.com/"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe
+
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2016-01-04T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;p&gt;以下為作業十四內容&lt;/p&gt;
+>>>>>>> 1dd39fbc0384db36269a9a145fb75395b48b1ea9
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40423227_cp_w17_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -216,6 +229,7 @@ canvas.bind('click', on_canvas_click, False)&lt;/p&gt;
 &lt;iframe src="40423227_cp_w13_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40423227_cp_w14_p.html" target="_blank"&gt;作業十四投影片&lt;/a&gt;&lt;/p&gt;
+<<<<<<< HEAD
 &lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
 
 &lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
@@ -280,26 +294,38 @@ y = 100&lt;/p&gt;
 &lt;h1&gt;利用 browser 模組中的 console.log 將資料列印在 console 區, 可以用來確認程式中各變數的值, 用法等同 print&lt;/h1&gt;
 &lt;p&gt;console.log("x 值為"+str(x)+", y 值為"+str(y))&lt;/p&gt;
 &lt;iframe width="640" height="385" src="https://www.youtube.com/v/y_hZX0nrL5U&amp;autoplay=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+=======
+&lt;iframe width="640" height="385" src="https://www.youtube.com/embed/y_hZX0nrL5U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+>>>>>>> 1dd39fbc0384db36269a9a145fb75395b48b1ea9
 
 &lt;p&gt;&lt;p&gt;&lt;a  href="https://www.youtube.com/"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe
 
+<<<<<<< HEAD
 &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-04T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2016-01-04:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業十五內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40423227_cp_w15_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40423227_cp_w15_p.html" target="_blank"&gt;作業十五投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-21T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業十三內容&lt;/p&gt;
+=======
+&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-21T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業十三內容&lt;/p&gt;
+>>>>>>> 1dd39fbc0384db36269a9a145fb75395b48b1ea9
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40423227_cp_w13_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40423227_cp_w13_p.html" target="_blank"&gt;作業十三投影片&lt;/a&gt;&lt;/p&gt;
+<<<<<<< HEAD
 &lt;iframe width="640" height="385" src="https://www.youtube.com/v/zRBrg_QSB8w&amp;autoplay=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+=======
+&lt;iframe width="640" height="385" src="https://www.youtube.com/embed/zRBrg_QSB8w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+>>>>>>> 1dd39fbc0384db36269a9a145fb75395b48b1ea9
 
 &lt;p&gt;&lt;p&gt;&lt;a  href="https://www.youtube.com/"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-08T14:34:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2015-12-08:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業十一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40423227_cp_w11_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40423227_cp_w11_p.html" target="_blank"&gt;作業十一投影片&lt;/a&gt;&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;&amp;lt;script class="brush: python3"&lt;/p&gt;
 &lt;h1&gt;猜數字遊戲&lt;/h1&gt;
 &lt;p&gt;import random&lt;/p&gt;
@@ -371,6 +397,9 @@ print("平均次數", 平均猜測次數)
 &lt;/pre&gt;
 
 &lt;iframe width="640" height="385" src="https://www.youtube.com/v/3DGt3XSrAZ4&amp;autoplay=1" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+=======
+&lt;iframe width="640" height="385" src="https://www.youtube.com/embed/3DGt3XSrAZ4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+>>>>>>> 1dd39fbc0384db36269a9a145fb75395b48b1ea9
 
 &lt;p&gt;&lt;p&gt;&lt;a  href="https://www.youtube.com/"&gt;YouTube&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業九</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w9.html" rel="alternate"></link><updated>2015-11-08T14:30:00+08:00</updated><author><name>40423227</name></author><id>tag:coursemdetw.github.io,2015-11-08:reveal/2015cp_hw_w9.html</id><summary type="html">&lt;p&gt;以下為作業九內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
